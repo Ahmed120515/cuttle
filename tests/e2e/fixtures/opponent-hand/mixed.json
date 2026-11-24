@@ -1,0 +1,94 @@
+{
+  "p0Hand": [
+    {
+      "rank": 8,
+      "suit": 3,
+      "id": "8S",
+      "attachments": []
+    },
+    {
+      "rank": 8,
+      "suit": 2,
+      "id": "8H",
+      "attachments": []
+    },
+    {
+      "rank": 13,
+      "suit": 0,
+      "id": "KC",
+      "attachments": []
+    },
+    {
+      "rank": 12,
+      "suit": 1,
+      "id": "QD",
+      "attachments": []
+    }
+  ],
+  "p0Points": [
+    {
+      "rank": 10,
+      "suit": 2,
+      "id": "TH",
+      "attachments": []
+    }
+  ],
+  "p0FaceCards": [],
+  "p1Hand": [
+    {
+      "rank": 6,
+      "suit": 2,
+      "id": "6H",
+      "attachments": []
+    },
+    {
+      "rank": 12,
+      "suit": 2,
+      "id": "QH",
+      "attachments": []
+    },
+    {
+      "rank": 8,
+      "suit": 0,
+      "id": "8C",
+      "attachments": []
+    }
+  ],
+  "p1Points": [
+    {
+      "rank": 1,
+      "suit": 1,
+      "id": "AD",
+      "attachments": []
+    }
+  ],
+  "p1FaceCards": [],
+  "deck": [
+    {
+      "rank": 3,
+      "suit": 0,
+      "id": "3C",
+      "attachments": []
+    },
+    {
+      "rank": 4,
+      "suit": 0,
+      "id": "4C",
+      "attachments": []
+    },
+    {
+      "rank": 5,
+      "suit": 0,
+      "id": "5C",
+      "attachments": []
+    }
+  ],
+  "revealedCards": [
+    {
+      "rank": 6,
+      "suit": 2,
+      "id": "6H",
+      "attachments": []
+    }
+  ]
+}
