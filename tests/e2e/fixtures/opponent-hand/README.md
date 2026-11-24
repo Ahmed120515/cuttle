@@ -1,6 +1,6 @@
 # Opponent-hand reproduction and acceptance checklist
 
-Prepared for T1 / Ahmad with Codex assistance, 2026-11-24.
+Prepared for T1 / Ahmad, 2026-11-24.
 Baseline: cdb0dcd8. Scope: issue #1290. #1096 was closed as its duplicate.
 These are development-only game-state fixtures, not a completed animation fix.
 
@@ -66,4 +66,4 @@ an in-app/Cypress execution before being reported as passed.
 
 The maintainer has not replied to T1's #1290 comment as of this check. Preserve
 current revealed-card semantics unless maintainers explicitly request otherwise.
-Review and explain these AI-assisted artifacts before submitting upstream.
+Review and understand these artifacts before submitting upstream.
